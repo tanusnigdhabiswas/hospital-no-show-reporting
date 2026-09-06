@@ -1,6 +1,6 @@
 # Hospital Appointment No-Shows: Monthly Reporting Pack
 
-20.2% of appointments are missed. Appointments booked more than 30 days ahead are missed at 33.4%, against 4.7% for same-day bookings, across 110,323 appointments spanning April–June 2016.
+20.2% of appointments are missed. Appointments booked more than 30 days ahead are missed at 33.0%, against 4.7% for same-day bookings, across 110,323 appointments spanning April–June 2016.
 
 ## The question
 
@@ -29,12 +29,12 @@ Which appointments get missed, and what could the clinic do about it?
 ## Findings
 
 1. **Overall no-show rate is 20.2%** across 110,323 appointments (April–June 2016) — fairly stable across the three months (19.6% in April, 20.8% in May, and slightly lower in June).
-2. **Lead time is the strongest single driver of no-shows.** The rate rises from 4.7% for same-day bookings to 33.4% for bookings made more than 30 days out — roughly a 7x increase.
+2. **Lead time is the strongest single driver of no-shows.** The rate rises from 4.7% for same-day bookings to 33.0% for bookings made more than 30 days out — roughly a 7x increase.
 3. **Age matters, but in the opposite direction you might expect.** Young adults are the worst attenders (24.5% no-show), while older adults and elderly patients are the best (~16.2–16.3%). Weekday and repeat-visit history, by contrast, showed almost no effect (weekday range 19.6–21.7%; first-timers 19.7% vs repeat patients 20.8%).
 4. **Neighbourhood effects are real but secondary to lead time.** Among neighbourhoods with 500+ appointments, rates range from 15.5% (Santa Martha) to 29.1% (Santos Dumont) — about a 2x spread, with the worst clinics running roughly 1.4x the city average.
 5. **The SMS reminder effect is a Simpson's Paradox.** In the raw comparison, patients who received an SMS reminder missed appointments at a higher rate than those who didn't (28.3% vs 17.7%) — reminders look counterproductive. But within every single lead-time band, SMS recipients had a *lower* no-show rate than non-recipients (e.g. Over-30-days: 37.6% without SMS vs 29.9% with SMS). Reminders were simply concentrated on long-lead-time, high-risk bookings, which drove the misleading raw comparison. This is observational data, so it shows the raw comparison is misleading — it doesn't prove reminders reduce no-shows; that would need a randomized test.
 
-![Summary dashboard](images/summary.png)
+![Summary dashboard](images/summary(April+May+June).png)
 
 ## Recommendations
 
